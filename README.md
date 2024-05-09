@@ -1,7 +1,7 @@
 # Sorteador de Números - Projeto de Treinamento
 
 ## Sobre o Projeto
-Este é um simples aplicativo de sorteio de números desenvolvido utilizando HTML, CSS e JavaScript. O projeto foi criado com o propósito de servir como um exercício de treinamento para praticar o uso do Git e colaborar em um ambiente simulado de uma empresa de desenvolvimento de software.
+Este é um simples projeto de sorteio de números desenvolvido utilizando HTML, CSS e JavaScript. O projeto foi criado com o propósito de servir como um exercício de treinamento para praticar o uso do Git e colaborar em um ambiente simulado de uma empresa de desenvolvimento de software.
 
 O objetivo principal deste projeto é familiarizar os colaboradores com os comandos básicos do Git, como criar branches, fazer commits, abrir pull requests e colaborar em equipe em um projeto.
 
