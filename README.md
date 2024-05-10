@@ -1,4 +1,4 @@
-# Sorteador de Números - Projeto de Treinamento
+# Sorteador de Números - Projeto de Treinamento da Trilha da Alura
 
 ## Sobre o Projeto
 Este é um simples projeto de sorteio de números desenvolvido utilizando HTML, CSS e JavaScript. O projeto foi criado com o propósito de servir como um exercício de treinamento para praticar o uso do Git e colaborar em um ambiente simulado de uma empresa de desenvolvimento de software.
