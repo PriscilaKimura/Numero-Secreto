@@ -11,7 +11,14 @@ O objetivo principal deste projeto é familiarizar os colaboradores com os coman
 - Os números sorteados são exibidos na tela.
 - O botão "Novo Jogo" permite iniciar um novo sorteio com um novo intervalo de números.
 
+## Tecnologias Utilizadas
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 ## Como Contribuir
+
 Se você deseja praticar e contribuir para este projeto de treinamento, sinta-se à vontade para colaborar e treinar os comandos git.
 
 Para contribuir, siga estas etapas:
@@ -22,6 +29,11 @@ Para contribuir, siga estas etapas:
 5. Push para a branch (`git push origin minha-feature`).
 6. Abra um pull request neste repositório.
 
-Agradecemos por contribuir para este projeto de sorteio de números!
+## Time
+
+<img src="https://github.com/PriscilaKimura/Numero-Secreto/assets/141864300/3b4da252-e6bc-4f9c-ac7e-51ce7b8dfc86" alt="foto do time" width="30%" />
+
+
+Agradecemos por contribuir com esse projeto de sorteio de números!
 
 
